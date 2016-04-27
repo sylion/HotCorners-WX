@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotCornerWX", "wxHotCorner\HotCornerWX.csproj", "{678EC1D9-4D30-4339-8454-B9E5C5DEDF6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678EC1D9-4D30-4339-8454-B9E5C5DEDF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678EC1D9-4D30-4339-8454-B9E5C5DEDF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678EC1D9-4D30-4339-8454-B9E5C5DEDF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678EC1D9-4D30-4339-8454-B9E5C5DEDF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://sylion.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = wxHotCorner\\HotCornerWX.csproj
+		SccProjectName1 = wxHotCorner
+		SccLocalPath1 = wxHotCorner
+	EndGlobalSection
+EndGlobal
